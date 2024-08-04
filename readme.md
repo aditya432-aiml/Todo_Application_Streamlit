@@ -7,7 +7,6 @@ The Todo App is a simple and intuitive task management application built using [
 ## Features
 
 - Add new tasks
-- Mark tasks as complete or incomplete
 - Delete tasks
 - View tasks in a clear, organized list
 - Easy-to-use and manage interface
@@ -24,8 +23,8 @@ To run this app, you'll need:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
-   cd todo-app
+   git clone https://github.com//aditya432-aiml/Todo_Application_Streamlit.git
+   cd Todo_Application_Streamlit
    ```
 
 2. **Create a virtual environment (optional but recommended):**
@@ -57,7 +56,6 @@ To run this app, you'll need:
 
 3. **Use the interface to manage your tasks:**
    - **Add a new task:** Enter the task description and click "Add Task".
-   - **Mark a task as complete:** Click the checkbox next to the task.
    - **Delete a task:** Click the trash icon next to the task.
 
 ## Project Structure
@@ -79,7 +77,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [License](LICENSE). file for details.
 
 ## Acknowledgements
 
