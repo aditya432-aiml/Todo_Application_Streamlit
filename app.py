@@ -23,10 +23,10 @@ todo_list = load_todo_list()
 st.set_page_config(layout="wide", page_title="My To-Do List", page_icon="📝")
 
 # Load background image
-bg_image = Image.open("Designer.png")  # Replace "bg.jpg" with your image file
+# bg_image = Image.open("Designer.png")  # Replace "bg.jpg" with your image file
 
 # Title and background
-st.image(bg_image, use_column_width=True)
+# st.image(bg_image, use_column_width=True)
 st.markdown("<h1 style='text-align: center; color: white; font-size: 4rem; font-weight: bold;'>Your Daily To-Do List</h1>", unsafe_allow_html=True)
 
 # Add new item
