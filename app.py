@@ -23,7 +23,7 @@ todo_list = load_todo_list()
 st.set_page_config(layout="wide", page_title="My To-Do List", page_icon="📝")
 
 # Load background image
-bg_image = Image.open("C:/Users/adity/Downloads/VISHNU_WALLPAPER.jpg")  # Replace "bg.jpg" with your image file
+bg_image = Image.open("Designer.png")  # Replace "bg.jpg" with your image file
 
 # Title and background
 st.image(bg_image, use_column_width=True)
